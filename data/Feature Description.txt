@@ -1,0 +1,25 @@
+Feature Description & Units
+🌍 General Information
+Source: 
+Location ID: Hà Nội 
+Latitude / Longitude: 21.03°N, 105.82°E
+
+☀️ Solar Irradiance (Đơn vị: W/m²)
+- ALLSKY_SFC_SW_DWN: Bức xạ toàn phần xuống mặt đất (có mây) (GHI)
+- ALLSKY_SFC_SW_DNI: Bức xạ trực tiếp từ mặt trời (vuông góc)
+- ALLSKY_SFC_SW_DIFF: Bức xạ tán xạ (qua mây, bụi, khí quyển)
+- ALLSKY_SRF_ALB: Hệ số phản xạ bề mặt
+- CLRSKY_SFC_SW_DWN: Bức xạ khi trời quang hoàn toàn (Clear sky) (GHI)
+- ALLSKY_KT: Chỉ số độ trong suốt khí quyển 
+- SZA: Góc thiên đỉnh mặt trời
+- PS: Áp suất khí quyển bề mặt
+
+🌡️ Weather Features
+T2M: Nhiệt độ không khí (2m) (°C)
+RH2M: Độ ẩm tương đối (2m) (%)
+PRECTOTCORR: Lượng mưa (mm/day)
+T2MDEW: Điểm sương (2m)
+
+☁️ Wind features
+WS10M: Tốc độ gió
+WD10M: hướng gió 
